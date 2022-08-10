@@ -3,7 +3,7 @@
 // you can use this to manipulate the document head in any components,
 // they will be rendered correctly in the html results with vite-ssg
 useHead({
-  title: 'AgroforestDAO',
+  title: 'ReFi Brasil',
   meta: [
     { name: 'description', content: '' },
     {
@@ -20,7 +20,7 @@ useHead({
     {
       rel: 'icon',
       type: 'image/png',
-      href: '/agroforestdao_logo_notitle.png',
+      href: '/re2br_logo.png',
     },
   ],
 })
