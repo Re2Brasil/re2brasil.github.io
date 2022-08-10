@@ -15,7 +15,15 @@ const externalRouteTo = (route = '') => {
       </p>
     </BaseSection>
     <BaseSection title="Post your initiative to get engaged" class="primary-section dark:section-border">
-      Initiatives
+      <p>
+        <button class="text-dark dark:text-light">
+          Connect
+        </button>
+        to your wallet and share your initiative to the world!
+      </p>
+      <p>
+        {{ '<Initiatives List>' }}
+      </p>
     </BaseSection>
   </div>
 </template>
