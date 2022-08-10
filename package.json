@@ -11,7 +11,8 @@
     "test:e2e": "cypress open",
     "test:unit": "vitest",
     "typecheck": "vue-tsc --noEmit",
-    "up": "taze major -I"
+    "up": "taze major -I",
+    "publish": "npm run build && git add dist && git commit -S -m 'build(dist): Build to publish on gh-pages' && git push origin `git subtree split --prefix dist pages`:gh-pages --force"
   },
   "dependencies": {
     "@vueuse/core": "^9.1.0",
