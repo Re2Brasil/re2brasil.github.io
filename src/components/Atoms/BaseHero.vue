@@ -16,7 +16,7 @@ const props = defineProps<Props>()
             {{ props.title }}
           </BaseSubtitle>
         </div>
-        <div class="bg-white dark:bg-stone-700 w-9/12  md:w-1/2 py-3 px-7">
+        <div class="bg-white dark:bg-stone-700 w-9/12  md:w-2/3 py-3 px-7">
           <BaseTitle>
             {{ props.subtitle }}
           </BaseTitle>

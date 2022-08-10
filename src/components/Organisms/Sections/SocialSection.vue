@@ -1,5 +1,5 @@
 <template>
-  <BaseSection size="quarter" class="green-section section-border" title="Join us!">
+  <BaseSection size="quarter" class="purple-section" title="Join us!">
     <div class="flex items-center justify-center space-x-20">
       <!-- <SocialIcon label="Discord" icon="i-fa-brands-discord" route-to="/" /> -->
       <SocialIcon label="Telegram" icon="i-fa-brands-telegram" route-to="https://t.me/+4jy1wdL7fz1mMGEx" />

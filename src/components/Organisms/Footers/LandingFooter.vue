@@ -1,5 +1,5 @@
 <template>
-  <div class="brown-section grid grid-cols-4 ">
+  <div class="bg-dark text-light grid grid-cols-4 ">
     <div class="px-7 py-20">
       <p>ReFi Brasil</p>
     </div>

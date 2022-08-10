@@ -1,7 +1,9 @@
 <template>
   <main class="text-primary-light dark:text-primary-dark">
     <LandingHeader />
-    <RouterView />
+    <div class="pt-18 min-h-screen">
+      <RouterView />
+    </div>
     <LandingFooter />
   </main>
 </template>
