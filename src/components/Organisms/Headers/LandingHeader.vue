@@ -6,7 +6,7 @@ import { toggleDark } from '~/composables/dark'
 </script>
 
 <template>
-  <div class="fixed top-0 z-10 w-full flex p-3 justify-between  bg-dark text-light">
+  <div class="fixed top-0 z-10 w-full flex p-3 justify-between re2-gradient dark:text-white">
     <div>
       <!-- todo: change logo bg color(transparent) -->
       <img src="/re2br_logo.png" alt="ReFi Brasil" class="w-28">
