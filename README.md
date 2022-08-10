@@ -1,4 +1,4 @@
-# AgroforestDAO Frontend
+# ReFi Brasil Frontend
 
 This project hos started based on [Vitesse](https://github.com/antfu/vitesse/tree/main/locales) (Opinionated Vue3 template), to develop our homepage and apps, due some desired features already configured and updated.
 

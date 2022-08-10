@@ -9,7 +9,7 @@
 
 <template>
   <div>
-    <BaseHero title="AgroforestDAO" subtitle="Decentered ReFi for a Rooted Society" background-image="https://natturis.com.br/v_2016/wp-content/uploads/2018/05/agricultura-sintropica.jpg" />
+    <BaseHero title="Re²" subtitle="Regenerative Resources" background-image="https://images.squarespace-cdn.com/content/v1/62c1ab2e724bdb47d13cf746/94149e2e-79e8-4f39-9260-3623f0121193/Untitled+design+%2894%29.png" />
 
     <AboutSection />
     <RoadmapSection />
