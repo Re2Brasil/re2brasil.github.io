@@ -8,11 +8,12 @@ export {}
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
     AboutSection: typeof import('./components/Organisms/Sections/AboutSection.vue')['default']
-    BaseButton: typeof import('./components/Atoms/BaseButton.vue')['default']
     BaseHero: typeof import('./components/Atoms/BaseHero.vue')['default']
     BaseSection: typeof import('./components/Atoms/BaseSection.vue')['default']
     BaseSubtitle: typeof import('./components/Atoms/BaseSubtitle.vue')['default']
     BaseTitle: typeof import('./components/Atoms/BaseTitle.vue')['default']
+    BorderlessFooter: typeof import('./components/Organisms/Footers/BorderlessFooter.vue')['default']
+    BorderlessHeader: typeof import('./components/Organisms/Headers/BorderlessHeader.vue')['default']
     HighlightSection: typeof import('./components/Organisms/Sections/HighlightSection.vue')['default']
     InitiativesSection: typeof import('./components/Organisms/Sections/InitiativesSection.vue')['default']
     LandingFooter: typeof import('./components/Organisms/Footers/LandingFooter.vue')['default']
